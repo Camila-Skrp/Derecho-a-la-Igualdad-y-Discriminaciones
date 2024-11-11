@@ -51,6 +51,8 @@ tr:hover {
 }
 .contenedor4 {
   justify-content: space-around;
+     display: grid;
+            grid-template-columns: 100%;
 }
 .caja4 {
   overflow-x: auto;

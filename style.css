@@ -49,10 +49,9 @@ th {
 tr:hover {
   background-color: rgb(240, 229, 224);
 }
-/* .contenedor4 {
-  justify-content: space-around;
-/*      display: grid;
-            grid-template-columns: 100%; */
+.contenedor4 {
+    display: grid;
+            grid-template-columns: 100%;
 } */
 /* .caja4 {
   overflow-x: auto;

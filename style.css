@@ -64,28 +64,10 @@ tr:hover {
   border-radius: 2px;
   max-width: 100%;
 }
-/*     .footer1 {
-    display:grid;
-grid-template-columns: 25% 25% 50%; 
-        border: solid black 2px;
-        height: 150px;
-        background-color: black;
-        color: aliceblue;
-        text-align: center;
-        max-width: 100%;
-        justify-content: space-around;
-
+  @media (max-width: 707px) {
+    .img {
+      border: solid black 2px;
+      height: 550px;
+      max-width: 100%;
     }
-    .footer2 {
-        border: solid lightgray 2px;
-    
-    }
-    .footer3 {
-        border: solid lightgray 2px;
-       
-    
-    }
-.footer4 {
-    border: solid lightgray 2px;
 }
- */

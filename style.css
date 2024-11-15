@@ -72,7 +72,7 @@ tr:hover {
      }
       .imagenbody {
       
-        background-image: url(./Frame\ 1.png);
+        background-image: url(./img-videos/Frame\ 1.png);
  width: 500px;
  height: 900px;
         background-repeat: no-repeat;
@@ -83,7 +83,7 @@ tr:hover {
       .imagenbody {
 height: 500px;
 max-width: 100%;
-background-image: url(./Frame\ 1.png);
+background-image: url(./img-videos/Frame\ 1.png);
 background-size: 100% 100%; 
       }
       

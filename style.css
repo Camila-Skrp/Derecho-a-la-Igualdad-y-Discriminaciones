@@ -82,7 +82,7 @@ tr:hover {
       }
         .contenedor1 {
         display: flex;
-        justify-content: baseline;
+       
         margin: 5px;
         padding: 5px;
         flex-direction: column;

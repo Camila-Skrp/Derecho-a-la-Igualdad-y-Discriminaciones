@@ -64,21 +64,26 @@ tr:hover {
   border-radius: 2px;
   max-width: 100%;
 }
- @media (max-width: 707px) {
+  @media (max-width: 707px) {
     .img {
       border: solid black 2px;
       /* height: 550px;
       max-width: 100%; */
      }
       .imagenbody {
-height: 500px;
-
-background-image: url(./img-videos/Frame\ 1.png);
-background-size: cover;
+      
+        background-image: url(./Frame\ 1.png);
+ width: 500px;
+ height: 900px;
+        background-repeat: no-repeat;
+        background-size:   100%  100%;
+        border: 10 px solid black;
       }
     }
       .imagenbody {
-height: 700px;
-background-image: url(./img-videos/Frame\ 1.png);
-background-size: cover;
+height: 500px;
+max-width: 100%;
+background-image: url(./Frame\ 1.png);
+background-size: 100% 100%; 
       }
+      

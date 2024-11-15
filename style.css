@@ -80,6 +80,30 @@ tr:hover {
         background-size:   100%  100%;
         border: 10 px solid black;
       }
+        .contenedor1 {
+        display: flex;
+        justify-content: baseline;
+        margin: 5px;
+        padding: 5px;
+        flex-direction: column;
+      }
+      .caja1 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 25px;
+        max-width: 100%;
+        border: solid black 5px;
+        margin: 5px;
+      }
+  
+      .caja2 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 25px;
+        max-width: 100%;
+        border: solid black 5px;
+        margin: 5px;
+        margin-bottom: 100px;
+      }
+      
     }
       .imagenbody {
 height: 500px;
